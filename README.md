@@ -1,2 +1,2 @@
-# Meu-segundo-resposit-rio
+# Meu-segundo-respositorio
 Esse é o meu segundo repositório
